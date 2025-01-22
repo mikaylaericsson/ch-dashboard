@@ -1,4 +1,5 @@
 <script>
+console.log("Hello world!");
 gsap.registerPlugin();
 
 const timeline = gsap.timeline({ repeat: -1 }); // Infinite loop
